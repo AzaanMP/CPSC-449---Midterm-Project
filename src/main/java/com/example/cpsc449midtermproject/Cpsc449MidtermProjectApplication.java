@@ -9,5 +9,4 @@ public class Cpsc449MidtermProjectApplication {
     public static void main(String[] args) {
         SpringApplication.run(Cpsc449MidtermProjectApplication.class, args);
     }
-
 }
