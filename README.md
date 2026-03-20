@@ -6,6 +6,17 @@ A RESTful event ticketing backend built with **Spring Boot**, **Spring Data JPA*
 
 ---
 
+## Team Information
+
+| Team Members Names | CWID |
+|---|---|
+| Azaan Mavandadipur | 820154672 |
+|  |  |
+|  |  |
+|  |  |
+
+---
+
 ## 📋 Table of Contents
 
 - [Tech Stack](#-tech-stack)
