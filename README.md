@@ -11,7 +11,7 @@ A RESTful event ticketing backend built with **Spring Boot**, **Spring Data JPA*
 | Team Members Names | CWID |
 |---|---|
 | Azaan Mavandadipur | 820154672 |
-|  |  |
+| Alejandro Galvan | 845376177 |
 |  |  |
 |  |  |
 
