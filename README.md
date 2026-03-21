@@ -12,7 +12,7 @@ A RESTful event ticketing backend built with **Spring Boot**, **Spring Data JPA*
 |---|---|
 | Azaan Mavandadipur | 820154672 |
 | Alejandro Galvan | 845376177 |
-|  |  |
+| Kristin Valido | 877723205 |
 |  |  |
 
 ---
