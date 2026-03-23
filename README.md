@@ -259,3 +259,5 @@ When using the API for the first time, create resources in this order to satisfy
 4. POST /api/attendees    → get attendeeId
 5. POST /api/bookings     → (uses attendeeId + ticketTypeId)
 \`\`\`
+
+Link to demo video: https://youtu.be/2k-C8zZVKz0
