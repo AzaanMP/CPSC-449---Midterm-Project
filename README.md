@@ -275,7 +275,7 @@ Link to demo video: https://youtu.be/2k-C8zZVKz0
 ![Create Ticket Type](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175604.png)
 
 ### 3. Create Attendee & Book Ticket
-![Create Attendee](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175604.png)
+![Create Attendee](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175933.png)
 ![Book Ticket](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175804.png)
 
 ### 4. Cancel Booking & Verify Revenue
