@@ -263,3 +263,21 @@ When using the API for the first time, create resources in this order to satisfy
 
 
 Link to demo video: https://youtu.be/2k-C8zZVKz0
+
+## 📸 Postman Testing Screenshots
+
+### 1. Create Organizer & Venue
+![Create Organizer](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-21%20171429.png)
+![Create Venue](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/2026-03-22%20175252.png)
+
+### 2. Create Event & Ticket Type
+![Create Event](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175449.png)
+![Create Ticket Type](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175604.png)
+
+### 3. Create Attendee & Book Ticket
+![Create Attendee](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175604.png)
+![Book Ticket](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175804.png)
+
+### 4. Cancel Booking & Verify Revenue
+![Cancel Ticket](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175844.png)
+![Check Revenue](https://github.com/AzaanMP/CPSC-449---Midterm-Project/blob/62c0151300412bc93263e6c8840de7bcdbe8db0b/API_Screenshots/Screenshot%202026-03-22%20175906.png)
