@@ -20,7 +20,6 @@ A RESTful event ticketing backend built with **Spring Boot**, **Spring Data JPA*
 ## 📋 Table of Contents
 
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
 - [Data Model](#-data-model)
 - [API Endpoints](#-api-endpoints)
 - [Getting Started](#-getting-started)
