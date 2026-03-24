@@ -25,6 +25,8 @@ A RESTful event ticketing backend built with **Spring Boot**, **Spring Data JPA*
 - [Getting Started](#-getting-started)
 - [Configuration](#-configuration)
 - [Error Handling](#-error-handling)
+- [Suggested Setup Order](#-suggested-setup-order)
+- [Postman Testing Screenshots](#-postman-testing-screenshots)
 
 ---
 
