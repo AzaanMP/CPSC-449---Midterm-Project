@@ -263,7 +263,7 @@ When using the API for the first time, create resources in this order to satisfy
 
 
 
-Link to demo video: https://youtu.be/2k-C8zZVKz0
+Link to demo video: [https://youtu.be/ZrVoBgmD7K4]
 
 ## 📸 Postman Testing Screenshots
 
